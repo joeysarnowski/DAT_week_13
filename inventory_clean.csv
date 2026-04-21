@@ -1,16 +1,16 @@
-product_id,product_name,supplier_id,price,stock_qty,category
-P001,Desk Chair,S01,189.99,24,Furniture
-P002,Monitor Stand,S02,45.0,8,Electronics
-P003,Keyboard,S01,72.5,15,Electronics
-P004,USB Hub,UNKNOWN,39.75,42,Electronics
-P005,Webcam,S03,58.0,0,Electronics
-P006,Headset,S02,92.0,6,Electronics
-P007,Mouse Pad,S04,12.99,150,Office
-P008,Desk Lamp,S01,34.5,11,Office
-P009,Cable Organizer,S03,18.75,33,Office
-P010,Notebook,S02,8.99,200,Office
-P011,Pen Set,UNKNOWN,6.5,500,Office
-P012,Stapler,S04,39.75,7,Office
-P013,File Folder,S03,3.25,88,Office
-P014,Whiteboard,S01,129.0,3,Furniture
-P015,Eraser Pack,S02,39.75,45,Office
+product_id,product_name,supplier_id,price,stock_qty,category,supplier_name
+P001,Desk Chair,S01,189.99,24,Furniture,NorthBay Goods
+P002,Monitor Stand,S02,45.0,8,Electronics,LakeFront Supply
+P003,Keyboard,S01,72.5,15,Electronics,NorthBay Goods
+P004,USB Hub,UNKNOWN,39.75,42,Electronics,
+P005,Webcam,S03,58.0,0,Electronics,ValleyDist Co.
+P006,Headset,S02,92.0,6,Electronics,LakeFront Supply
+P007,Mouse Pad,S04,12.99,150,Office,ClearPath Inc.
+P008,Desk Lamp,S01,34.5,11,Office,NorthBay Goods
+P009,Cable Organizer,S03,18.75,33,Office,ValleyDist Co.
+P010,Notebook,S02,8.99,200,Office,LakeFront Supply
+P011,Pen Set,UNKNOWN,6.5,500,Office,
+P012,Stapler,S04,39.75,7,Office,ClearPath Inc.
+P013,File Folder,S03,3.25,88,Office,ValleyDist Co.
+P014,Whiteboard,S01,129.0,3,Furniture,NorthBay Goods
+P015,Eraser Pack,S02,39.75,45,Office,LakeFront Supply
