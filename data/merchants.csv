@@ -1,0 +1,28 @@
+merchant_id,merchant_name,industry,city,is_online
+M_PAYROLL,Payroll,Banking,Online,1
+M_SIDE,Side Hustle,Banking,Online,1
+M_BANKINT,Bank Interest,Banking,Online,1
+M_CC_PAY,CC Processor,Banking,Online,1
+M_401K,401(k) Provider,Banking,Online,1
+M0001,FreshMart,Groceries,"Neenah, WI",0
+M0002,FreshMart,Groceries,"Green Bay, WI",0
+M0003,QuickStop,Groceries,"Oshkosh, WI",0
+M0004,QuickStop,Groceries,"Kimberly, WI",0
+M0005,BrightGas,Gas/Transportation,"Appleton, WI",0
+M0006,BrightGas,Gas/Transportation,"Menasha, WI",0
+M0007,BrightGas,Gas/Transportation,"Kimberly, WI",0
+M0008,MetroTransit,Gas/Transportation,"Appleton, WI",0
+M0009,BrewHouse,Dining Out,"Neenah, WI",0
+M0010,BrewHouse,Dining Out,"Appleton, WI",0
+M0011,StreamFlix,Subscriptions,Online,1
+M0012,GigaNet,Phone/Internet,Online,1
+M0013,CityPower,Utilities,"Appleton, WI",0
+M0014,FoxRiver Apartments,Rent/Mortgage,"Appleton, WI",0
+M0015,HealthPlus,Insurance,"Appleton, WI",0
+M0016,PharmaCare,Health,"Oshkosh, WI",0
+M0017,PharmaCare,Health,"Appleton, WI",0
+M0018,AutoWorks,Auto,"Menasha, WI",0
+M0019,StyleStreet,Shopping,"Appleton, WI",0
+M0020,BookNook,Education,Online,1
+M0021,CoffeeCo,Entertainment,"Neenah, WI",0
+M0022,CoffeeCo,Entertainment,"Kimberly, WI",0
